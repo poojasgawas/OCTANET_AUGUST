@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="to do style.css">
+</head>
+<body>
+    <header>
+        <nav class="container">
+            <dic class="logo">
+                <img src="https://w7.pngwing.com/pngs/662/45/png-transparent-paper-quill-corp-ink-scrolled-paper-and-quill-pen-letter-and-feather-pencil-pen-parchment.png" alt="To-Do List">
+                <p>To-Do List</p>
+            </dic>
+            <ul>
+                <a href="ToDo.html">
+                    <li>Home</li>
+                </a>
+                <a href="main">
+                    <li>Contacts</li>
+                </a>
+                <a href="main">
+                    <li>Sign in</li>
+                </a>
+            </ul>
+        </nav>
+    </header>
+    <div class="main">
+        <img src="https://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/Scrolls-PNG/Scroll_Paper_PNG_Image.png?m=1629833163" alt="scroll image">
+        <div class="content">
+            <div class="container">
+                <div class="todo">
+                    <input class="todo_value" type="text" placeholder="(empty)">
+                    <input class="todo_checkbox" type="text">
+                </div>
+                <div class="todo">
+                    <input class="todo_value" type="text" placeholder="(empty)">
+                    <input class="todo_checkbox" type="text">
+                </div>
+                <div class="todo">
+                    <input class="todo_value" type="text" placeholder="(empty)">
+                    <input class="todo_checkbox" type="text">
+                </div>
+                <div class="todo">
+                    <input class="todo_value" type="text" placeholder="(empty)">
+                    <input class="todo_checkbox" type="text">
+                </div>
+                <div class="todo">
+                    <input class="todo_value" type="text" placeholder="(empty)">
+                    <input class="todo_checkbox" type="text">
+                </div>
+                <div class="todo">
+                    <input class="todo_value" type="text" placeholder="(empty)">
+                    <input class="todo_checkbox" type="text">
+                </div>
+                <div class="todo">
+                    <input class="todo_value" type="text" placeholder="(empty)">
+                    <input class="todo_checkbox" type="text">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
